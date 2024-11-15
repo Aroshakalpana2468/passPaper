@@ -1,0 +1,14 @@
+{
+  "name": "pass-paper-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.4.1",
+    "nodemon": "^3.0.3"
+  }
+}
